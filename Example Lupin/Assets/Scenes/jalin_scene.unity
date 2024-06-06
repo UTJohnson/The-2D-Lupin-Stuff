@@ -204,6 +204,75 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &583552368
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2498390605306425119, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_Name
+      value: pan_low_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 33.540237
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.11
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 31.3268
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4952316815907619939, guid: 5589db4557fbb36488b0c04b6e133d34,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5589db4557fbb36488b0c04b6e133d34, type: 3}
 --- !u!1 &954195297
 GameObject:
   m_ObjectHideFlags: 0
@@ -294,7 +363,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1007652072
 GameObject:
@@ -388,7 +457,7 @@ Transform:
   m_LocalScale: {x: 3.8338, y: 3.8338, z: 3.8338}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1009309993
 PrefabInstance:
@@ -440,7 +509,7 @@ PrefabInstance:
     - target: {fileID: 5414029601147497563, guid: f9ac53a89e967c345802bb35e2b979da,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5414029601147497563, guid: f9ac53a89e967c345802bb35e2b979da,
         type: 3}
@@ -549,7 +618,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1832462192
 GameObject:
@@ -641,7 +710,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1001 &3514999564235743823
 PrefabInstance:
