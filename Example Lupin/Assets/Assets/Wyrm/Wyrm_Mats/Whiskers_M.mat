@@ -61,7 +61,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 858d6b65c3e450446b97cf4dfede0f69, type: 3}
+        m_Texture: {fileID: 2800000, guid: c9fac75977acdd34f99d8f1d5e942f8a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -90,7 +90,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _AoIntensity: 1
+    - _AoIntensity: 1.06
     - _BlendMainNormal: 0
     - _BlendmodeOverlay: 0
     - _Brightness: 1
@@ -106,11 +106,11 @@ Material:
     - _DetailSource: 0
     - _DetailSpecularIntensity: 0.2
     - _DstBlend: 0
-    - _EmissionIntensity: 1
+    - _EmissionIntensity: 2
     - _EnableDetailMask: 0
     - _EnableTriplanarProjection: 1
     - _GlossMapScale: 1
-    - _Glossiness: 1.11
+    - _Glossiness: 2
     - _GlossyReflections: 1
     - _IntensityCutoutMap: 0.77
     - _IntensityMask: 1
@@ -128,7 +128,7 @@ Material:
     - _Source: 0
     - _SourceMask: 0
     - _SpecularHighlights: 0
-    - _SpecularIntensity: 0.588
+    - _SpecularIntensity: 0.2
     - _SpreadDetailMap: 0
     - _SpreadTransparentMap: 0
     - _SrcBlend: 1
@@ -143,12 +143,12 @@ Material:
     - _ZWrite: 1
     - __dirty: 1
     m_Colors:
-    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.5372549}
+    - _Color: {r: 0.3962264, g: 0.3457636, b: 0.36629984, a: 0.5372549}
     - _DetailColor: {r: 1, g: 1, b: 1, a: 0}
     - _DetailSpecularColor: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _GlobalXYTilingXYZWOffsetXY: {r: 1, g: 1, b: 0, a: 0}
-    - _SpecularColor: {r: 0.46226418, g: 0.3510591, b: 0.3510591, a: 0}
+    - _SpecularColor: {r: 0.2830189, g: 0.20692419, b: 0.20692419, a: 0}
     - _TriplanarXYTilingXYZWOffsetXY: {r: 1, g: 1, b: 0, a: 0}
     - _TriplanarXYTilingXYZWOffsetXY1: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
